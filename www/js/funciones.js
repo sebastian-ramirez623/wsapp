@@ -1,9 +1,9 @@
 $("#miformulario").submit(function(evento){
 	evento.preventDefault();
-	//console.info("activando formulario.....");
+	console.info("activando formulario.....");
 	var cadena=$(this).serializeArray();
-	//console.info(cadena);
-
+	console.info(cadena);
+	console.log('entre');
 	$.ajax({
 		url:"http://especialistasenlaweb.com/srvdatos.php",
 		type:"post",

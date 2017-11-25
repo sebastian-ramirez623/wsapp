@@ -9,7 +9,7 @@
     </author>
     <content src="index.html" />
     <access origin="http://especialistasenlaweb.com" />
-    <puglin name="cordova-plugin-whitelist" source="npm"/>
+    <plugin name="cordova-plugin-whitelist" source="npm"/>
     <allow-navigation href="*" />
     <allow-intent href="*" />
 </widget>
