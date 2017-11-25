@@ -1,4 +1,3 @@
-
 # A Blank PhoneGap App
 
 ## Usage
@@ -17,3 +16,6 @@ In your browser, open the file:
 # appwebservice
 appwebservice
 
+=======
+# wsapp
+web service APP
